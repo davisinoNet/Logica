@@ -10,6 +10,6 @@ def resta():
     R=n+m
     print("la resta es=",R)    
 
-
+##Menu de opciones
 suma()
 resta()
